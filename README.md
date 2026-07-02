@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shashwat 👋
+
+🎓 MBA Tech (Computer Engineering) student at NMIMS
+
+💻 Interested in software development, artificial intelligence, and building practical solutions through technology.
+
+🚀 Currently learning, building projects, and strengthening my problem-solving skills.
+
+📫 LinkedIn: [www.linkedin.com/in/shashwatshreyash](http://www.linkedin.com/in/shashwatshreyash)
+
 
 <!--
 **ShashwatShreyash/ShashwatShreyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
